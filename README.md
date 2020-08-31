@@ -1,4 +1,3 @@
-https://img.shields.io/badge/licence-MIT-green
 ## Hi there and welcome 👋🏽 
 
 I'm a software developer & computer science student focusing on UI development. I get a kick out of making things more pleasant to use 🙂
