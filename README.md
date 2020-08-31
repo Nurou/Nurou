@@ -1,11 +1,13 @@
+![](https://komarev.com/ghpvc/?username=Nurou)
+
 ## Hi there and welcome 👋🏽 
 
 I'm a software developer & computer science student focusing on UI development. I get a kick out of making things more pleasant to use 🙂
 
-- 🌱 I’m currently working at the University of Helsinki 
-- 🎓 I’m also completing a BSc in computer science 
-- 💭 Main technical interests: user interfaces, API development, functional programming  
-- 📫 How to reach me: [Twitter](https://twitter.com/joelhassannoor) or [Email](mailto:joel.nhn@gmail.com) 
+- 🌱  I’m currently working at the University of Helsinki 
+- 🎓  I’m also completing a BSc in computer science 
+- 💭  Main technical interests: user interfaces, API development, functional programming  
+- 📫  How to reach me: [Twitter](https://twitter.com/joelhassannoor) or [Email](mailto:joel.nhn@gmail.com) 
 
 ### My skills include
 
