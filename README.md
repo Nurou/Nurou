@@ -4,8 +4,8 @@
 
 I'm a software developer & computer science student focusing on UI development. I get a kick out of making things more pleasant to use 🙂
 
-- 🌱  I’m currently working at the University of Helsinki 
-- 🎓  I’m completing a BSc in computer science 
+- 🌱  Currently working at the University of Helsinki as a research assistant
+- 🎓  Completing a BSc in computer science 
 - 💭  Main technical interests: user interfaces, API development, functional programming  
 - 📫  How to reach me: [Twitter](https://twitter.com/joelhassannoor) or [Email](mailto:joel.nhn@gmail.com) 
 
