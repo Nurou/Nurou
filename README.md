@@ -9,7 +9,7 @@ I'm a software developer & computer science student focusing on UI development. 
 - 💭  Main technical interests: user interfaces, API development, functional programming  
 - 📫  How to reach me: [Twitter](https://twitter.com/joelhassannoor) or [Email](mailto:joel.nhn@gmail.com) 
 
-### What I most commonly work with
+### What I ususally work with
 
 <p align="left">
 	<img title="TypeScript" src="https://raw.githubusercontent.com/Nurou/Nurou/master/assets/typescript-original.svg" width="70" height="40" />
