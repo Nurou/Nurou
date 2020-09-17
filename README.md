@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Nurou)
 
 ## Hi there and welcome 👋🏽 
 
