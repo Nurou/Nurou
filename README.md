@@ -1,7 +1,7 @@
 
 ## Hi there and welcome 👋🏽 
 
-I'm a software developer & computer science student focusing on UI development. I get a kick out of making things more pleasant to use 🙂
+I get a kick out of making things more pleasant to use. Here's what I'm currently up to:
 
 - 🎓  Completing a BSc in computer science 
 - 🌱  Working at the University of Helsinki as a research assistant
