@@ -1,11 +1,11 @@
 
 ## Hi there and welcome 👋🏽 
 
-I get a kick out of making things more pleasant to use. Here's what I'm currently up to:
+I get a kick out of making things more pleasant to use. I'm currently:
 
 - 🎓  Completing a BSc in computer science 
 - 🌱  Working at the University of Helsinki as a research assistant
-- 💭  Interested in: user interfaces, API development, functional programming  
+- 💭  Interested in: web development, UX, mathematics   
 - 📫  How to reach me: [Twitter](https://twitter.com/joelhassannoor) or [Email](mailto:joel.nhn@gmail.com) 
 
 ### Often work with:
