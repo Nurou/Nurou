@@ -1,5 +1,5 @@
 
-## Hi there and welcome 👋🏽 
+## Hello and welcome 👋🏽 
 
 I get a kick out of making things more pleasant to use. I'm currently:
 
