@@ -3,10 +3,10 @@
 
 I get a kick out of making things more pleasant to use. I'm currently:
 
-- 🎓   Completing a BSc in computer science 
-- 🌱   Working at the University of Helsinki as a research assistant
-- 💭   Interested in: web development, UX, mathematics   
-- 📫   How to reach me: [Twitter](https://twitter.com/joelhassannoor) or [Email](mailto:joel.nhn@gmail.com) 
+- 🎓   &nbsp; Completing a BSc in computer science 
+- 🌱   &nbsp; Working at the University of Helsinki as a research assistant
+- 💭   &nbsp; Interested in: web development, UX, mathematics   
+- 📫   &nbsp; How to reach me: [Twitter](https://twitter.com/joelhassannoor) or [Email](mailto:joel.nhn@gmail.com) 
 
 ### Primary toolset:
 
