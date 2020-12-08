@@ -8,6 +8,8 @@ I get a kick out of making things more pleasant to use. I'm currently:
 - 💭   &nbsp; Interested in: web development, UX, mathematics   
 - 📫   &nbsp; How to reach me: [Twitter](https://twitter.com/joelhassannoor) or [Email](mailto:joel.nhn@gmail.com) 
 
+
+
 ### Primary toolset:
 
 <p align="left">
@@ -18,3 +20,8 @@ I get a kick out of making things more pleasant to use. I'm currently:
 	<img title="PostreSQL" src="https://raw.githubusercontent.com/Nurou/Nurou/master/assets/postgresql-original.svg" width="40" height="40" />
 </p>
 
+
+
+✨ 
+
+I also offer services for headless WordPress (& ACF) work. Give me a shout if you are looking to hook up your WP instance with something more customizable and performant (Gatsby.js/Next.js).
