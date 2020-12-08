@@ -22,6 +22,3 @@ I get a kick out of making things more pleasant to use. I'm currently:
 
 
 
-✨ 
-
-I also offer services for headless WordPress (& ACF) work. Give me a shout if you are looking to hook up your WP instance with something more customizable and performant (Gatsby.js/Next.js).
