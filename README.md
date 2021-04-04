@@ -6,7 +6,7 @@ I get a kick out of making things more pleasant to use. I'm currently:
 - 🎓   &nbsp; Completing a BSc in computer science 
 - 🌱   &nbsp; Working at the University of Helsinki as a research assistant
 - 💭   &nbsp; Specialising in web (esp. UI/UX) development    
-- 📫   &nbsp; Reach me on: [Twitter](https://twitter.com/joelhassannoor) or [Email](mailto:joel.nhn@gmail.com) 
+- 📫   &nbsp; Reach me on: [Twitter](https://twitter.com/messages/compose?recipient_id=1075660159882616832) or [Email](mailto:joel.nhn@gmail.com) 
 
 
 
