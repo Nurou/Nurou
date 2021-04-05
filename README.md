@@ -1,7 +1,7 @@
 
 ## Hi 👋🏽 
 
-I get a kick out of making things more pleasant to use. I'm currently:
+I'm a full-stack developer based in Helsinki who gets a kick out of making things more pleasant to use. I'm currently:
 
 - 🎓   &nbsp; Completing a BSc in computer science 
 - 🌱   &nbsp; Working at the University of Helsinki as a research assistant
