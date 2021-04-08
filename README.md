@@ -1,19 +1,19 @@
 
 ## Hi 👋🏽 
 
-I'm a full-stack developer based in Helsinki, Finland. I get a kick out of making things more pleasant to use.
+I'm Joel, a front-end engineer based in Helsinki, Finland. I care about making web sites/apps more pleasant to use.
 
-I am:
+I am currently:
 
 - 🎓   &nbsp; Completing a BSc in computer science 
 - 🌱   &nbsp; Working at the University of Helsinki as a research assistant
-- 💭   &nbsp; Specialising in web (esp. UI/UX) development    
+- 💭   &nbsp; Specialising in UI/UX design    
 
-📫   &nbsp; Reach me on: [Twitter](https://twitter.com/messages/compose?recipient_id=1075660159882616832) or [Email](mailto:joel.nhn@gmail.com) 
+📫   &nbsp; You can reach me on: [Twitter](https://twitter.com/messages/compose?recipient_id=1075660159882616832) or [Email](mailto:joel.nhn@gmail.com) 
 
 
 
-### Primary toolset:
+### Primary languages & tools:
 
 <p align="left">
 	<img title="TypeScript" src="https://raw.githubusercontent.com/Nurou/Nurou/master/assets/typescript-original.svg" width="70" height="40" />
