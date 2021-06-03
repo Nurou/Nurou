@@ -5,8 +5,8 @@ I'm Joel, a front-end engineer based in Helsinki, Finland. I care about making w
 
 I am currently:
 
-- 🎓   &nbsp; Completing a BSc in computer science 
-- 🌱   &nbsp; Working at the University of Helsinki as a research assistant
+- 🎓   &nbsp; Completing an MSc in Human-computer interaction (HCI).
+- 🌱   &nbsp; Working at Smartly.io as a software engineer.
 - 💭   &nbsp; Specialising in UI/UX development    
 
 📫   &nbsp; You can reach me on: [Twitter](https://twitter.com/messages/compose?recipient_id=1075660159882616832) or [Email](mailto:joel.nhn@gmail.com) 
