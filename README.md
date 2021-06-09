@@ -5,7 +5,7 @@ I'm Joel, a front-end engineer based in Helsinki, Finland. I do my best to make 
 
 I am currently:
 
--  &nbsp; Working at Smartly.io as a software engineer.
+-  &nbsp; Working at Smartly.io as a full-stack developer.
 -  &nbsp; Completing an MSc in Human-computer interaction (HCI).
 -  &nbsp; Specialising in UI/UX development    
 
