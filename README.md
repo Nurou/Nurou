@@ -1,7 +1,7 @@
 
 ## Hi 👋🏽 
 
-I'm Joel, a front-end engineer based in Helsinki, Finland. I do my best to make web sites/apps more pleasant to use.
+I do my best to make web sites/apps more pleasant to use.
 
 I am currently:
 
