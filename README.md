@@ -11,8 +11,6 @@ I am currently:
 
 &nbsp; You can reach me through [Email](mailto:joel.nhn@gmail.com) or [Twitter DMs](https://twitter.com/messages/compose?recipient_id=1075660159882616832).
 
-Visit my personal site [here](https://joelhassan.com).
-
 
 
 
