@@ -4,7 +4,7 @@
 I do my best to make web apps more pleasant to use.
 
 
-Currently a product developer at Hoxhunt.
+Currently a product developer at The Upright Project.
 
 
 Computer science (MSc)
